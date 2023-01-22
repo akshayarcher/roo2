@@ -1,0 +1,148 @@
+.bg-brand-custom{
+    background-color: #202020;
+}
+.navbar-custom{
+    margin: 20px;
+}
+.main{
+    background-color: #a7a7a7;
+}
+.bg-nav-custom{
+    background-color: #224f97;
+}
+#body{
+    background-color: #ffffff;
+}
+#body1{
+    background-color: #707070;
+}
+.bg-coursal{
+    background-color: #ffffff;
+    margin: 0%;
+}
+.bg-footer{
+    background-color: #a7a7a7;
+}
+.menu-custom{
+    margin: 5px;
+}
+.roobaro{
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: xx-large;
+    color: #ffffff;
+
+}
+.menu{
+    font-size: large;
+    padding-left: 35px;
+    color: #ffffff;
+}
+.menu:hover{
+    text-decoration:underline;
+   
+}
+.clock{
+    background-color: #3e78b6;
+    font-size: x-large;
+    text-align: center;
+    padding: 50px;
+}
+.clock1{
+    background-color: #4875a5;
+    font-size: x-large;
+    text-align: center;
+    padding: 10px;
+}
+.clock-heading{
+    font-family: 'Roboto', sans-serif;
+    color: rgba(0, 0, 0, 0.815);
+}
+.clock-time{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.clock-text{
+    font-family: 'Roboto', sans-serif;
+    color: rgba(231, 231, 231, 0.514);
+}
+.main-body{
+    background-color: #BBE1FA;
+}
+.custom-png{
+    height: 10px;
+    width: 50px;
+}
+.img_info{
+    padding: 2%;
+}
+ .event_button{
+    text-align: center;
+    color: aliceblue;
+}
+
+.event_link{
+    text-decoration: none;
+    color: #ffffff;
+}
+.event_link:hover{
+    color: #ffffff;
+} 
+.roo_heading{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    margin-top: 2%;
+    font-size: xx-large;
+}
+#main_text{
+    text-align: left;
+}
+.info{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: larger;
+    padding-top: 10px;
+    padding-left: 110px;
+    padding-right: 110px;
+
+}
+.info1 {
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-size: xx-large;
+    width: 60%;
+    margin: 40px auto 40px auto;
+}
+.roo-22{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+.card-body{
+    text-align: center;
+    /* padding: 2%; */
+}
+.card-custom{
+    padding-top: 2%;
+}
+.contact_card{
+    text-align: center;
+    /* padding-left: 50%; */
+}
+.contact{
+    padding-top: 2%;
+}
+#bt{
+    background-color: #46afc786;
+}
+
+@media (max-width:900px){
+    .info{
+        font-size: small;
+        text-align: center;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .info1{
+        font-size: large;
+        text-align: center;
+    }    
+}
